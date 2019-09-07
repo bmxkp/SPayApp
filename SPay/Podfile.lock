@@ -1,0 +1,20 @@
+PODS:
+  - iOSDropDown (0.3.4)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iOSDropDown
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 79d2c733846865c030bc5ae90717add0161789d0
+
+COCOAPODS: 1.7.3
